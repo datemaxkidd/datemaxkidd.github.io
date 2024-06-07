@@ -73,6 +73,12 @@ section {
   padding: 3rem 18rem;
 }
 
+.sponsor {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
 .section {
   -webkit-transform: translateY(-100%) scale(0);
           transform: translateY(-100%) scale(0);
