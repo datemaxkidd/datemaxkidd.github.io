@@ -1030,8 +1030,8 @@ section {
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 100px;
-  position: relative;
+  max-width: 100%;
+  position: center;
   margin: auto;
 }
 
