@@ -1038,6 +1038,7 @@ section {
 /* Hide the images by default */
 .mySlides {
   display: none;
+  max-width: 100%;
 }
 
 /* Next & previous buttons */
